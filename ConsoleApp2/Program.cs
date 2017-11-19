@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.ComponentModel;
 
-namespace ConsoleApp2
+namespace Game21
 {
 	class Program
 	{
